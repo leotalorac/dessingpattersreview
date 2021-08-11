@@ -45,3 +45,4 @@ I sleep in my house
 ```
 ## Structure of the pattern
 ![Abstract factory pattern](../../img/af.png)
+> Taken from the book "Java Design Patters"
