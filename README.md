@@ -4,3 +4,4 @@ A review of the 23 design patterns from the book "Desing Patterns: Elements pf r
 1. Creational Patterns
     * [Abstract factory](./src/abstractfactory)
     * [Builder](./src/builder)
+    * [Factory](./src/factory)
