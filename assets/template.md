@@ -1,4 +1,4 @@
-# Pattern name
+# Pattern name
 description
 
 ## Important points
