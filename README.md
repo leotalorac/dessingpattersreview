@@ -9,3 +9,4 @@ A review of the 23 design patterns from the book "Desing Patterns: Elements pf r
 2. Behavioral Patterns
     * [Observer](./src/observer)
     * [Strategy](./src/strategy)
+    * [Template](./src/template)
