@@ -6,6 +6,7 @@ A review of the 23 design patterns from the book "Desing Patterns: Elements pf r
     * [Builder](./src/builder)
     * [Factory](./src/factory)
     * [Prototype](./src/prototype)
+    * [Singleton](./src/singleton)
 2. Behavioral Patterns
     * [Observer](./src/observer)
     * [Strategy](./src/strategy)
