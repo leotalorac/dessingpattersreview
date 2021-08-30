@@ -2,3 +2,6 @@ bin
 lib
 .vscode
 .DS_Store
+/.idea
+*.iml
+out
